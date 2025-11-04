@@ -1,0 +1,2184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+# Basic UI
+msgid "APPLY"
+msgstr "ПРИМЕНИТЬ"
+
+msgid "APPLY SETTINGS"
+msgstr "ПРИМЕНИТЬ НАСТРОЙКИ"
+
+msgid "Apply Changes"
+msgstr "Применить изменения"
+
+msgid "CANCEL"
+msgstr "ОТМЕНА"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "CREATE GAME"
+msgstr "СОЗДАТЬ ИГРУ"
+
+msgid "JOIN GAME"
+msgstr "ПРИСОЕДИНИТЬСЯ К ИГРЕ"
+
+msgid "SETTINGS"
+msgstr "НАСТРОЙКИ"
+
+msgid "SETTINGS MENU"
+msgstr "МЕНЮ НАСТРОЕК"
+
+# Gameplay/common
+msgid "CUSTOM LOADOUT"
+msgstr "НАБОР СНАРЯЖЕНИЯ"
+
+msgid "CUSTOM LOADOUT 1"
+msgstr "НАБОР СНАРЯЖЕНИЯ 1"
+
+msgid "CUSTOM LOADOUT {X}"
+msgstr "НАБОР СНАРЯЖЕНИЯ {X}"
+
+msgid "Loadout"
+msgstr "Снаряжение"
+
+msgid "Perk"
+msgstr "Перк"
+
+msgid "Perks"
+msgstr "Перки"
+
+msgid "Lethal equipment (Grenade/Claymore)"
+msgstr "Смертельное снаряжение (граната/мина Клеймор)"
+
+msgid "Field Upgrades"
+msgstr "Полевые улучшения"
+
+msgid "Ammo Box"
+msgstr "Ящик с патронами"
+
+msgid "Medkit"
+msgstr "Аптечка"
+
+msgid "Tactical Sprint"
+msgstr "Тактический спринт"
+
+msgid "ASSIST"
+msgstr "ПОМОЩЬ"
+
+msgid "+ Assist"
+msgstr "+ Помощь"
+
+msgid "ATTACK"
+msgstr "АТАКА"
+
+msgid "CAPTURE"
+msgstr "ЗАХВАТ"
+
+msgid "CAPTURED"
+msgstr "ЗАХВАЧЕНО"
+
+msgid "CAPTURING POINT"
+msgstr "ЗАХВАТ ТОЧКИ"
+
+msgid "CONFIRMED"
+msgstr "ПОДТВЕРЖДЕНО"
+
+msgid "Blue Team"
+msgstr "Синяя команда"
+
+msgid "Red Team"
+msgstr "Красная команда"
+
+msgid "AI Difficulty"
+msgstr "Сложность ИИ"
+
+msgid "Accuracy"
+msgstr "Точность"
+
+msgid "Capacity"
+msgstr "Ёмкость"
+
+# Game modes
+msgid "Team Deathmatch"
+msgstr "Командный бой насмерть"
+
+msgid "Free For All"
+msgstr "Каждый сам за себя"
+
+msgid "Conquest"
+msgstr "Завоевание"
+
+msgid "CONQUEST"
+msgstr "ЗАВОЕВАНИЕ"
+
+msgid "Capture The Flag"
+msgstr "Захват флага"
+
+msgid "Kill Confirmed"
+msgstr "Подтверждение убийства"
+
+msgid "Rush"
+msgstr "Прорыв"
+
+msgid "Search and Destroy"
+msgstr "Поиск и уничтожение"
+
+msgid "Capture the enemy flag"
+msgstr "Захватите флаг противника"
+
+msgid "Capture the enemy flag and bring it to your own base to make points, if the enemy team has your flag you will have to retrieve it first."
+msgstr "Захватите флаг противника и принесите его на свою базу, чтобы заработать очки. Если у врага ваш флаг, сначала верните его."
+
+# Weapons and fire modes
+msgid "AR"
+msgstr "ШТУРМОВАЯ"
+
+msgid "Assault"
+msgstr "Штурм"
+
+msgid "AssaultRifle"
+msgstr "ШтурмоваяВинтовка"
+
+msgid "BURST"
+msgstr "ОЧЕРЕДЬ"
+
+msgid "AUTO"
+msgstr "АВТО"
+
+msgid "SHOTGUN"
+msgstr "ДРОБОВИК"
+
+msgid "PISTOL"
+msgstr "ПИСТОЛЕТ"
+
+msgid "KNIFE"
+msgstr "НОЖ"
+
+# UI with markup and placeholders (keep tags and {X})
+msgid "<H>FPS Multiplayer Template 6 RELEASED!</>"
+msgstr "<H>ВЫПУЩЕН FPS Multiplayer Template 6!</>"
+
+msgid "<B>Weapon Selection</>"
+msgstr "<B>Выбор оружия</>"
+
+msgid "<B>Edit Loadout menu</>"
+msgstr "<B>Меню редактирования снаряжения</>"
+
+msgid "<B>Perk selection menu</>"
+msgstr "<B>Меню выбора перков</>"
+
+msgid "<B>Lethal equipment selection</>"
+msgstr "<B>Выбор смертоносного снаряжения</>"
+
+msgid "<B>Character selection</>"
+msgstr "<B>Выбор персонажа</>"
+
+msgid " + {name}"
+msgstr " + {name}"
+
+# Short HUD strings
+msgid "+HP"
+msgstr "+ЗД"
+
+msgid "+Ammo"
+msgstr "+ПАТР"
+
+msgid "+Speed"
+msgstr "+СКОР"
+
+msgid "+Utility"
+msgstr "+ПОЛЕЗН"
+
+# Misc
+msgid "Best of 5"
+msgstr "До трёх побед из пяти"
+
+msgid "1st"
+msgstr "1-е"
+
+msgid "2nd"
+msgstr "2-е"
+
+msgid "3/15"
+msgstr "3/15"
+
+# ===== Batch 2 =====
+msgid "AO"
+msgstr "АО"
+
+msgid "ARX-19"
+msgstr "ARX-19"
+
+msgid "Accessory"
+msgstr "Аксессуар"
+
+msgid "Accuracy"
+msgstr "Точность"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Active"
+msgstr "Активно"
+
+msgid "Aim"
+msgstr "Прицелиться"
+
+msgid "Air Space Too Crowded"
+msgstr "Воздушное пространство перегружено"
+
+msgid "Ambient Volume"
+msgstr "Громкость окружения"
+
+msgid "Anim Instance"
+msgstr "Экземпляр анимации"
+
+msgid "Anim instance"
+msgstr "Экземпляр анимации"
+
+msgid "Anisotropic"
+msgstr "Анизотропная"
+
+msgid "Anti Aliasing"
+msgstr "Сглаживание"
+
+msgid "Arms Anims|TPP"
+msgstr "Анимации рук|TPP"
+
+msgid "ArmsAnims|FPP"
+msgstr "Анимации рук|FPP"
+
+msgid "Assault"
+msgstr "Штурм"
+
+msgid "AssaultRifle"
+msgstr "ШтурмоваяВинтовка"
+
+msgid "AssistList"
+msgstr "Список помощей"
+
+msgid "Attachment Name"
+msgstr "Название модуля"
+
+msgid "AttachmentType"
+msgstr "ТипМодуля"
+
+msgid "Auido Quality"
+msgstr "Качество звука"
+
+msgid "Autoasign"
+msgstr "Автоприсвоение"
+
+msgid "BOMB TAKEN"
+msgstr "БОМБА ВЗЯТА"
+
+msgid "Backward"
+msgstr "Назад (движение)"
+
+msgid "Base Character Info"
+msgstr "Базовая информация о персонаже"
+
+msgid "Best of 5"
+msgstr "До 3 побед из 5"
+
+msgid "Blue Team"
+msgstr "Синяя команда"
+
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+msgid "C"
+msgstr "C"
+
+msgid "CAPTURED"
+msgstr "ЗАХВАЧЕНО"
+
+msgid "CAPTURING POINT"
+msgstr "ЗАХВАТ ТОЧКИ"
+
+msgid "CHOOSE LOADOUTS"
+msgstr "ВЫБЕРИТЕ СНАРЯЖЕНИЕ"
+
+msgid "CLUSTER STRIKE INCOMING"
+msgstr "НАНОСИТСЯ КЛАСТЕРНЫЙ УДАР"
+
+msgid "CONQUEST"
+msgstr "ЗАВОЕВАНИЕ"
+
+msgid "CREATE GAME"
+msgstr "СОЗДАТЬ ИГРУ"
+
+msgid "CUSTOM LOADOUT 1"
+msgstr "НАБОР СНАРЯЖЕНИЯ 1"
+
+msgid "CUSTOM LOADOUT {X}"
+msgstr "НАБОР СНАРЯЖЕНИЯ {X}"
+
+msgid "Capacity"
+msgstr "Ёмкость"
+
+msgid "Capture The Flag"
+msgstr "Захват флага"
+
+msgid "Capture the enemy flag"
+msgstr "Захватите флаг противника"
+
+msgid "Capture the enemy flag and bring it to your own base to make points, if the enemy team has your flag you will have to retrieve it first."
+msgstr "Захватите флаг противника и доставьте на свою базу, чтобы заработать очки. Если у врага ваш флаг, сначала верните его."
+
+msgid "Capture the objectives"
+msgstr "Захватывайте цели"
+
+msgid "CaptureTheFlag"
+msgstr "CaptureTheFlag"
+
+msgid "CapturedTeamA"
+msgstr "ЗахваченоКомандойA"
+
+msgid "CONFIRMED"
+msgstr "ПОДТВЕРЖДЕНО"
+
+msgid "CREATE GAME"
+msgstr "СОЗДАТЬ ИГРУ"
+
+msgid "CUSTOM LOADOUT"
+msgstr "НАБОР СНАРЯЖЕНИЯ"
+
+msgid "500 XP"
+msgstr "500 ОО"
+
+msgid "11 m"
+msgstr "11 м"
+
+msgid "30 m"
+msgstr "30 м"
+
+msgid "30m"
+msgstr "30м"
+
+msgid "35ms"
+msgstr "35мс"
+
+msgid "1:00"
+msgstr "1:00"
+
+msgid "1:20"
+msgstr "1:20"
+
+msgid "1st"
+msgstr "1-е"
+
+msgid "2nd"
+msgstr "2-е"
+
+msgid "AR"
+msgstr "ШТУРМОВАЯ"
+
+msgid "+Ammo"
+msgstr "+ПАТР"
+
+msgid "+HP"
+msgstr "+ЗД"
+
+msgid "+Speed"
+msgstr "+СКОР"
+
+msgid "+Utility"
+msgstr "+ПОЛЕЗН"
+
+msgid "ASSIST"
+msgstr "ПОМОЩЬ"
+
+msgid "ATTACK"
+msgstr "АТАКА"
+
+msgid "AUTO"
+msgstr "АВТО"
+
+msgid "BURST"
+msgstr "ОЧЕРЕДЬ"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Blue Team"
+msgstr "Синяя команда"
+
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+# Graphics & Audio common (generic; will be used if present)
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Controls"
+msgstr "Управление"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Fullscreen"
+msgstr "Полноэкранный режим"
+
+msgid "Windowed"
+msgstr "В окне"
+
+msgid "Borderless"
+msgstr "Без границ"
+
+msgid "VSync"
+msgstr "Вертикальная синхронизация"
+
+msgid "Frame Rate Limit"
+msgstr "Ограничение FPS"
+
+msgid "Field of View"
+msgstr "Поле зрения"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Gamma"
+msgstr "Гамма"
+
+msgid "Motion Blur"
+msgstr "Размытие в движении"
+
+msgid "Sharpen"
+msgstr "Резкость"
+
+msgid "Textures"
+msgstr "Текстуры"
+
+msgid "Shadows"
+msgstr "Тени"
+
+msgid "Effects"
+msgstr "Эффекты"
+
+msgid "Post Processing"
+msgstr "Постобработка"
+
+msgid "Master Volume"
+msgstr "Общая громкость"
+
+msgid "Music Volume"
+msgstr "Громкость музыки"
+
+msgid "SFX Volume"
+msgstr "Громкость эффектов"
+
+msgid "Voice Chat"
+msgstr "Голосовой чат"
+
+msgid "Push To Talk"
+msgstr "Нажми-и-говори"
+
+msgid "Mute"
+msgstr "Отключить звук"
+
+# Input
+msgid "Sensitivity"
+msgstr "Чувствительность"
+
+msgid "Mouse Sensitivity"
+msgstr "Чувствительность мыши"
+
+msgid "Invert Y"
+msgstr "Инвертировать Y"
+
+msgid "Sprint"
+msgstr "Бег"
+
+msgid "Crouch"
+msgstr "Присесть"
+
+msgid "Jump"
+msgstr "Прыжок"
+
+msgid "Reload"
+msgstr "Перезарядка"
+
+msgid "Interact"
+msgstr "Взаимодействие"
+
+msgid "Use"
+msgstr "Использовать"
+
+msgid "Melee"
+msgstr "Ближний бой"
+
+msgid "Grenade"
+msgstr "Граната"
+
+msgid "Scorestreak"
+msgstr "Киллстриковая поддержка"
+
+# News/marketing block tags (keep markup)
+msgid "<T>FPS Multiplayer Controller is now compatible</>"
+msgstr "<T>FPS Multiplayer Controller теперь совместим</>"
+
+msgid "<H>Menus</>"
+msgstr "<H>Меню</>"
+
+msgid "<B>Main Menu reworked.</>"
+msgstr "<B>Главное меню переработано.</>"
+
+msgid "<B>Settings Menu reworked.</>"
+msgstr "<B>Меню настроек переработано.</>"
+
+msgid "<B>Join/Create game menu reworked.</>"
+msgstr "<B>Меню присоединения/создания игры переработано.</>"
+
+# ===== Batch 3 =====
+# Main menu and flows
+msgid "Play"
+msgstr "Играть"
+
+msgid "Multiplayer"
+msgstr "Мультиплеер"
+
+msgid "Singleplayer"
+msgstr "Одиночная игра"
+
+msgid "Host"
+msgstr "Хост"
+
+msgid "Join"
+msgstr "Присоединиться"
+
+msgid "Server Browser"
+msgstr "Список серверов"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Friends"
+msgstr "Друзья"
+
+msgid "Invite"
+msgstr "Пригласить"
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Decline"
+msgstr "Отклонить"
+
+msgid "Quit"
+msgstr "Выход"
+
+msgid "Exit to Desktop"
+msgstr "Выйти на рабочий стол"
+
+# Session / match
+msgid "Match Starting"
+msgstr "Матч начинается"
+
+msgid "Match Over"
+msgstr "Матч завершён"
+
+msgid "Round"
+msgstr "Раунд"
+
+msgid "Time Remaining"
+msgstr "Оставшееся время"
+
+msgid "Score"
+msgstr "Счёт"
+
+msgid "Kills"
+msgstr "Убийства"
+
+msgid "Deaths"
+msgstr "Смерти"
+
+msgid "Assists"
+msgstr "Помощи"
+
+msgid "Killstreak"
+msgstr "Серия убийств"
+
+msgid "Headshot"
+msgstr "Выстрел в голову"
+
+msgid "Respawn in {X}"
+msgstr "Возрождение через {X}"
+
+msgid "You Died"
+msgstr "Вы погибли"
+
+msgid "Victory"
+msgstr "Победа"
+
+msgid "Defeat"
+msgstr "Поражение"
+
+msgid "Draw"
+msgstr "Ничья"
+
+# Loadout / inventory
+msgid "Primary Weapon"
+msgstr "Основное оружие"
+
+msgid "Secondary Weapon"
+msgstr "Вторичное оружие"
+
+msgid "Weapon attachments"
+msgstr "Модули оружия"
+
+msgid "Weapon Skins"
+msgstr "Скины оружия"
+
+msgid "Character Selection"
+msgstr "Выбор персонажа"
+
+msgid "Field upgrade selection"
+msgstr "Выбор полевого улучшения"
+
+msgid "Equip"
+msgstr "Экипировать"
+
+msgid "Unequip"
+msgstr "Снять"
+
+msgid "Selected"
+msgstr "Выбрано"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+# Weapon stats
+msgid "Damage"
+msgstr "Урон"
+
+msgid "Range"
+msgstr "Дальность"
+
+msgid "Fire Rate"
+msgstr "Скорострельность"
+
+msgid "Mobility"
+msgstr "Подвижность"
+
+msgid "Control"
+msgstr "Контроль"
+
+msgid "Recoil"
+msgstr "Отдача"
+
+msgid "Stability"
+msgstr "Стабильность"
+
+# HUD prompts
+msgid "Press {Key} to interact"
+msgstr "Нажмите {Key}, чтобы взаимодействовать"
+
+msgid "Hold {Key} to revive"
+msgstr "Удерживайте {Key}, чтобы оживить"
+
+msgid "Hold {Key} to pick up {Item}"
+msgstr "Удерживайте {Key}, чтобы поднять {Item}"
+
+msgid "Press {Key} to use {Item}"
+msgstr "Нажмите {Key}, чтобы использовать {Item}"
+
+# Network / Steam / session
+msgid "Connecting"
+msgstr "Подключение"
+
+msgid "Connected"
+msgstr "Подключено"
+
+msgid "Reconnecting"
+msgstr "Повторное подключение"
+
+msgid "Connection lost"
+msgstr "Соединение потеряно"
+
+msgid "Joining session"
+msgstr "Присоединение к сессии"
+
+msgid "Creating session"
+msgstr "Создание сессии"
+
+msgid "Host closed the connection"
+msgstr "Хост закрыл соединение"
+
+msgid "Server full"
+msgstr "Сервер заполнен"
+
+msgid "Server not responding"
+msgstr "Сервер не отвечает"
+
+msgid "Invalid session"
+msgstr "Неверная сессия"
+
+# Settings confirmations
+msgid "Apply changes?"
+msgstr "Применить изменения?"
+
+msgid "Changes applied"
+msgstr "Изменения применены"
+
+msgid "Changes discarded"
+msgstr "Изменения отменены"
+
+msgid "Restart required"
+msgstr "Требуется перезапуск"
+
+# Misc UI
+msgid "On"
+msgstr "Вкл"
+
+msgid "Off"
+msgstr "Выкл"
+
+msgid "Low"
+msgstr "Низкое"
+
+msgid "Medium"
+msgstr "Среднее"
+
+msgid "High"
+msgstr "Высокое"
+
+msgid "Ultra"
+msgstr "Ультра"
+
+msgid "Custom"
+msgstr "Пользовательское"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+# Perks and equipment
+msgid "Perk 1"
+msgstr "Перк 1"
+
+msgid "Perk 2"
+msgstr "Перк 2"
+
+msgid "Perk 3"
+msgstr "Перк 3"
+
+msgid "Frag Grenade"
+msgstr "Осколочная граната"
+
+msgid "Claymore Mine"
+msgstr "Мина Клеймор"
+
+msgid "Smoke Grenade"
+msgstr "Дымовая граната"
+
+msgid "Flashbang"
+msgstr "Светошумовая граната"
+
+msgid "Stim"
+msgstr "Стим"
+
+# Killstreaks (generic)
+msgid "Cluster Strike"
+msgstr "Кластерный удар"
+
+msgid "UAV"
+msgstr "БПЛА"
+
+msgid "Airstrike"
+msgstr "Авиaудар"
+
+msgid "Counter UAV"
+msgstr "Контр-БПЛА"
+
+# UI Markup blocks (keep tags)
+msgid "<B>New Weapon sounds</> using metasounds."
+msgstr "<B>Новые звуки оружия</> на metasounds."
+
+msgid "<B>New VFX</> (like muzzle flashes, bullet tracers, explosions, etc.)."
+msgstr "<B>Новые визуальные эффекты</> (вспышки, трассеры, взрывы и т. п.)."
+
+msgid "<B>Character Mesh / Operator</>"
+msgstr "<B>Модель персонажа / Оператор</>"
+
+msgid "<B>Level-up System.</>"
+msgstr "<B>Система повышения уровней.</>"
+
+msgid "<B>Challenges/Missions System.</>"
+msgstr "<B>Система испытаний/миссий.</>"
+
+msgid "<B>New Tactical sprint animations.</>"
+msgstr "<B>Новые анимации тактического спринта.</>"
+
+msgid "<B>Assault Rifle animations reworked.</>"
+msgstr "<B>Анимации штурмовой винтовки переработаны.</>"
+
+# ===== Batch 4 =====
+# Objectives & tips
+msgid "Secure the area"
+msgstr "Обезопасьте зону"
+
+msgid "Defend the objective"
+msgstr "Обороняйте цель"
+
+msgid "Disarm the bomb"
+msgstr "Обезвредьте бомбу"
+
+msgid "Plant the bomb"
+msgstr "Установите бомбу"
+
+msgid "Escort the payload"
+msgstr "Сопровождайте груз"
+
+msgid "Hold the point"
+msgstr "Удерживайте точку"
+
+msgid "Contest the point"
+msgstr "Оспаривайте точку"
+
+msgid "Return the flag"
+msgstr "Верните флаг"
+
+msgid "You have the flag"
+msgstr "У вас флаг"
+
+msgid "Enemy has your flag"
+msgstr "У противника ваш флаг"
+
+msgid "Flag returned"
+msgstr "Флаг возвращён"
+
+# Scoreboard
+msgid "Scoreboard"
+msgstr "Таблица счёта"
+
+msgid "Player"
+msgstr "Игрок"
+
+msgid "Ping"
+msgstr "Пинг"
+
+msgid "Level"
+msgstr "Уровень"
+
+msgid "XP"
+msgstr "Опыть"
+
+msgid "K/D"
+msgstr "У/С"
+
+msgid "K/D/A"
+msgstr "У/С/П"
+
+msgid "Latency"
+msgstr "Задержка"
+
+# Settings – Gameplay
+msgid "Gameplay"
+msgstr "Геймплей"
+
+msgid "Toggle Aim"
+msgstr "Переключаемый прицел"
+
+msgid "Hold Aim"
+msgstr "Удерживать прицел"
+
+msgid "Hold Breath"
+msgstr "Задержка дыхания"
+
+msgid "Toggle Crouch"
+msgstr "Переключаемое приседание"
+
+msgid "Auto Sprint"
+msgstr "Автобег"
+
+msgid "Weapon FOV"
+msgstr "FOV оружия"
+
+msgid "ADS Sensitivity"
+msgstr "Чувствительность при прицеливании"
+
+msgid "Aim Response Curve"
+msgstr "Кривая отклика прицела"
+
+# Settings – Video quality
+msgid "View Distance"
+msgstr "Дальность прорисовки"
+
+msgid "Foliage"
+msgstr "Листва"
+
+msgid "Anti-Aliasing"
+msgstr "Сглаживание"
+
+msgid "Screen Space Reflections"
+msgstr "Экранные отражения"
+
+msgid "Global Illumination"
+msgstr "Глобальное освещение"
+
+msgid "Ray Tracing"
+msgstr "Трассировка лучей"
+
+msgid "DLSS"
+msgstr "DLSS"
+
+msgid "FSR"
+msgstr "FSR"
+
+msgid "Upscaling"
+msgstr "Апскейлинг"
+
+# Warnings / errors
+msgid "Not enough players"
+msgstr "Недостаточно игроков"
+
+msgid "Team balancing"
+msgstr "Балансировка команд"
+
+msgid "Cannot spawn here"
+msgstr "Здесь нельзя появиться"
+
+msgid "Out of bounds"
+msgstr "Вне границ"
+
+msgid "Reloading"
+msgstr "Перезарядка"
+
+msgid "Low ammo"
+msgstr "Мало патронов"
+
+msgid "No ammo"
+msgstr "Нет патронов"
+
+msgid "Inventory full"
+msgstr "Инвентарь заполнен"
+
+msgid "Action not available"
+msgstr "Действие недоступно"
+
+msgid "You are muted"
+msgstr "Вы заглушены"
+
+msgid "Player muted"
+msgstr "Игрок заглушён"
+
+msgid "Voice chat not available"
+msgstr "Голосовой чат недоступен"
+
+# Tutorials / hints
+msgid "Press {Key} to toggle fire mode"
+msgstr "Нажмите {Key}, чтобы сменить режим огня"
+
+msgid "Press {Key} to mount"
+msgstr "Нажмите {Key}, чтобы упереться"
+
+msgid "Press {Key} to inspect weapon"
+msgstr "Нажмите {Key}, чтобы осмотреть оружие"
+
+msgid "Hold {Key} to steady aim"
+msgstr "Удерживайте {Key}, чтобы стабилизировать прицел"
+
+# Weapons – generic names
+msgid "Rifle"
+msgstr "Винтовка"
+
+msgid "SMG"
+msgstr "ПП"
+
+msgid "LMG"
+msgstr "Пулемёт"
+
+msgid "Marksman"
+msgstr "Марксманская"
+
+msgid "Sniper"
+msgstr "Снайперская"
+
+msgid "Launcher"
+msgstr "Гранатомёт"
+
+# Map / UI generic
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Loading Map"
+msgstr "Загрузка карты"
+
+msgid "Connecting to server"
+msgstr "Подключение к серверу"
+
+msgid "Returning to menu"
+msgstr "Возврат в меню"
+
+# Social
+msgid "Party"
+msgstr "Группа"
+
+msgid "Leader"
+msgstr "Лидер"
+
+msgid "Promote to leader"
+msgstr "Назначить лидером"
+
+msgid "Kick"
+msgstr "Выгнать"
+
+msgid "Report"
+msgstr "Пожаловаться"
+
+# Confirmation prompts
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+# Misc placeholders
+msgid "{X} kills"
+msgstr "{X} убийств"
+
+msgid "{X} deaths"
+msgstr "{X} смертей"
+
+msgid "{X} assists"
+msgstr "{X} помощей"
+
+# ===== Batch 5 =====
+# Menus – settings subpages
+msgid "Video"
+msgstr "Видео"
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Interface"
+msgstr "Интерфейс"
+
+msgid "Accessibility"
+msgstr "Доступность"
+
+msgid "Key Bindings"
+msgstr "Назначение клавиш"
+
+msgid "Reset to Defaults"
+msgstr "Сбросить по умолчанию"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Back"
+msgstr "Назад"
+
+# Gameplay notifications
+msgid "Objective secured"
+msgstr "Цель захвачена"
+
+msgid "Objective lost"
+msgstr "Цель потеряна"
+
+msgid "Objective contested"
+msgstr "Цель оспаривается"
+
+msgid "Point A"
+msgstr "Точка A"
+
+msgid "Point B"
+msgstr "Точка B"
+
+msgid "Point C"
+msgstr "Точка C"
+
+msgid "Double Kill"
+msgstr "Двойное убийство"
+
+msgid "Triple Kill"
+msgstr "Тройное убийство"
+
+msgid "Mega Kill"
+msgstr "Мега-убийство"
+
+msgid "First Blood"
+msgstr "Первая кровь"
+
+msgid "Longshot"
+msgstr "Дальний выстрел"
+
+msgid "Assist"
+msgstr "Помощь"
+
+# Connection / matchmaking
+msgid "Searching for match"
+msgstr "Поиск матча"
+
+msgid "Match found"
+msgstr "Матч найден"
+
+msgid "Joining match"
+msgstr "Присоединение к матчу"
+
+msgid "Leaving match"
+msgstr "Выход из матча"
+
+msgid "Failed to join session"
+msgstr "Не удалось присоединиться к сессии"
+
+msgid "Failed to create session"
+msgstr "Не удалось создать сессию"
+
+msgid "Session ended"
+msgstr "Сессия завершена"
+
+# Errors – generic
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Operation timed out"
+msgstr "Время ожидания истекло"
+
+msgid "Not authorized"
+msgstr "Нет авторизации"
+
+msgid "Service unavailable"
+msgstr "Сервис недоступен"
+
+msgid "Content missing"
+msgstr "Контент отсутствует"
+
+# Options – toggles
+msgid "Subtitles"
+msgstr "Субтитры"
+
+msgid "Subtitle Size"
+msgstr "Размер субтитров"
+
+msgid "Colorblind Mode"
+msgstr "Режим для дальтоников"
+
+msgid "Crosshair"
+msgstr "Прицел"
+
+msgid "Crosshair Color"
+msgstr "Цвет прицела"
+
+msgid "Hitmarker"
+msgstr "Хитмаркер"
+
+msgid "Hitmarker Sound"
+msgstr "Звук хитмаркера"
+
+# Weapon/attachment slots
+msgid "Muzzle"
+msgstr "Дульное устройство"
+
+msgid "Barrel"
+msgstr "Ствол"
+
+msgid "Optic"
+msgstr "Оптика"
+
+msgid "Stock"
+msgstr "Приклад"
+
+msgid "Underbarrel"
+msgstr "Подствольный"
+
+msgid "Magazine"
+msgstr "Магазин"
+
+msgid "Rear Grip"
+msgstr "Тыльная рукоять"
+
+msgid "Laser"
+msgstr "Лазер"
+
+msgid "Charm"
+msgstr "Брелок"
+
+# Chat / social
+msgid "Text Chat"
+msgstr "Текстовый чат"
+
+msgid "Voice Chat"
+msgstr "Голосовой чат"
+
+msgid "Team Chat"
+msgstr "Командный чат"
+
+msgid "All Chat"
+msgstr "Общий чат"
+
+msgid "Whisper"
+msgstr "Личное сообщение"
+
+# Prompts with placeholders
+msgid "Are you sure you want to quit to desktop?"
+msgstr "Вы уверены, что хотите выйти на рабочий стол?"
+
+msgid "Are you sure you want to leave the match? Unsaved progress will be lost."
+msgstr "Выйти из матча? Несохранённый прогресс будет утрачен."
+
+msgid "{X} players needed to start"
+msgstr "Нужно игроков для старта: {X}"
+
+msgid "{X} XP"
+msgstr "{X} ОО"
+
+msgid "{X}m"
+msgstr "{X}м"
+
+# Misc
+msgid "News"
+msgstr "Новости"
+
+msgid "Challenges"
+msgstr "Испытания"
+
+msgid "Missions"
+msgstr "Миссии"
+
+msgid "Progression"
+msgstr "Прогресс"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Career"
+msgstr "Карьера"
+
+msgid "Season"
+msgstr "Сезон"
+
+msgid "Battle Pass"
+msgstr "Боевой пропуск"
+
+# ===== Batch 6 =====
+# More UI flows
+msgid "Resume"
+msgstr "Продолжить"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "Apply and Restart"
+msgstr "Применить и перезапустить"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Saving..."
+msgstr "Сохранение..."
+
+msgid "Saved"
+msgstr "Сохранено"
+
+# Gameplay states
+msgid "Warmup"
+msgstr "Разминка"
+
+msgid "Intermission"
+msgstr "Перерыв"
+
+msgid "Overtime"
+msgstr "Овертайм"
+
+msgid "Sudden Death"
+msgstr "Внезапная смерть"
+
+msgid "Switching Sides"
+msgstr "Смена сторон"
+
+# Team names/colors
+msgid "Red Team"
+msgstr "Красная команда"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Spectators"
+msgstr "Зрители"
+
+msgid "Spectating"
+msgstr "Наблюдение"
+
+# Input prompts generic
+msgid "Press {Key} to {Action}"
+msgstr "Нажмите {Key}, чтобы {Action}"
+
+msgid "Hold {Key} to {Action}"
+msgstr "Удерживайте {Key}, чтобы {Action}"
+
+msgid "Press {Key} to skip"
+msgstr "Нажмите {Key}, чтобы пропустить"
+
+# Voice / text indicators
+msgid "Muted"
+msgstr "Заглушён"
+
+msgid "Unmuted"
+msgstr "Со звуком"
+
+msgid "Typing..."
+msgstr "Печатает..."
+
+# Penalties and sanctions
+msgid "You have been kicked"
+msgstr "Вы были выгнаны"
+
+msgid "You have been banned"
+msgstr "Вы были заблокированы"
+
+msgid "Vote kicked"
+msgstr "Исключён голосованием"
+
+msgid "Forgive"
+msgstr "Простить"
+
+msgid "Punish"
+msgstr "Наказать"
+
+# Matchmaking ranges
+msgid "Skill-based matchmaking"
+msgstr "Подбор по навыку"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Any"
+msgstr "Любой"
+
+msgid "EU"
+msgstr "EU"
+
+msgid "NA"
+msgstr "NA"
+
+msgid "AS"
+msgstr "AS"
+
+# Performance overlays
+msgid "FPS"
+msgstr "FPS"
+
+msgid "Frame Time"
+msgstr "Время кадра"
+
+msgid "GPU"
+msgstr "GPU"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "VRAM"
+msgstr "VRAM"
+
+# Controller / gamepad
+msgid "Controller"
+msgstr "Геймпад"
+
+msgid "Deadzone"
+msgstr "Мёртвая зона"
+
+msgid "Aim Assist"
+msgstr "Помощь прицеливания"
+
+msgid "Vibration"
+msgstr "Вибрация"
+
+# Accessibility
+msgid "Reduce Motion"
+msgstr "Уменьшить анимацию"
+
+msgid "High Contrast UI"
+msgstr "Высококонтрастный интерфейс"
+
+msgid "Text Size"
+msgstr "Размер текста"
+
+msgid "Color Intensity"
+msgstr "Интенсивность цвета"
+
+# Tooltips
+msgid "Adjust overall game volume"
+msgstr "Регулировка общей громкости"
+
+msgid "Set maximum frames per second"
+msgstr "Установить максимальный FPS"
+
+msgid "Enable vertical sync"
+msgstr "Включить вертикальную синхронизацию"
+
+# Common confirmations
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+msgid "Settings not saved"
+msgstr "Настройки не сохранены"
+
+msgid "Restore defaults?"
+msgstr "Восстановить значения по умолчанию?"
+
+# Generic placeholders
+msgid "{X}%"
+msgstr "{X}%"
+
+msgid "{X} ms"
+msgstr "{X} мс"
+
+msgid "{X} m"
+msgstr "{X} м"
+
+# ===== Batch 7 =====
+# UI categories and labels
+msgid "HUD"
+msgstr "HUD"
+
+msgid "Minimap"
+msgstr "Мини-карта"
+
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+msgid "Scale"
+msgstr "Масштаб"
+
+msgid "Language & Region"
+msgstr "Язык и регион"
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+msgid "Account"
+msgstr "Аккаунт"
+
+msgid "Link"
+msgstr "Привязать"
+
+msgid "Unlink"
+msgstr "Отвязать"
+
+# Gameplay notices
+msgid "Friendly fire"
+msgstr "Огонь по своим"
+
+msgid "Team kill"
+msgstr "Убийство союзника"
+
+msgid "Spawn protection"
+msgstr "Защита при появлении"
+
+msgid "Objective updated"
+msgstr "Цель обновлена"
+
+msgid "New objective"
+msgstr "Новая цель"
+
+msgid "Objective failed"
+msgstr "Цель провалена"
+
+# Round / match flows
+msgid "Round starting in {X}"
+msgstr "Раунд начнётся через {X}"
+
+msgid "Next round"
+msgstr "Следующий раунд"
+
+msgid "Final round"
+msgstr "Финальный раунд"
+
+msgid "Switching to defense"
+msgstr "Переход к обороне"
+
+msgid "Switching to attack"
+msgstr "Переход к атаке"
+
+# Inventory & items
+msgid "Use Item"
+msgstr "Использовать предмет"
+
+msgid "Drop"
+msgstr "Выбросить"
+
+msgid "Swap"
+msgstr "Поменять"
+
+msgid "Inspect"
+msgstr "Осмотреть"
+
+msgid "Favorite"
+msgstr "Избранное"
+
+msgid "Remove from favorites"
+msgstr "Убрать из избранного"
+
+# Progression
+msgid "Unlocked"
+msgstr "Разблокировано"
+
+msgid "Locked"
+msgstr "Заблокировано"
+
+msgid "New"
+msgstr "Новое"
+
+msgid "Claim"
+msgstr "Забрать"
+
+msgid "Reward"
+msgstr "Награда"
+
+msgid "Tier"
+msgstr "Уровень (тиир)"
+
+msgid "Requirements"
+msgstr "Требования"
+
+# Dialogs and prompts
+msgid "Leave party?"
+msgstr "Покинуть группу?"
+
+msgid "Disband party?"
+msgstr "Распустить группу?"
+
+msgid "Kick player?"
+msgstr "Выгнать игрока?"
+
+msgid "Report player?"
+msgstr "Пожаловаться на игрока?"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "Cheating"
+msgstr "Читерство"
+
+msgid "Griefing"
+msgstr "Мешательство в игре"
+
+msgid "Abusive Chat"
+msgstr "Оскорбительный чат"
+
+# Loading tips
+msgid "Tip"
+msgstr "Совет"
+
+msgid "You can change your loadout between spawns."
+msgstr "Вы можете менять снаряжение между возрождениями."
+
+msgid "Headshots deal increased damage."
+msgstr "Выстрелы в голову наносят повышенный урон."
+
+msgid "Flank to break enemy defenses."
+msgstr "Охватывайте фланги, чтобы прорвать оборону."
+
+# Errors – connectivity
+msgid "Failed to connect to server"
+msgstr "Не удалось подключиться к серверу"
+
+msgid "Connection rejected"
+msgstr "Подключение отклонено"
+
+msgid "Version mismatch"
+msgstr "Несовпадение версии"
+
+msgid "Anticheat not running"
+msgstr "Античит не запущен"
+
+msgid "Anticheat error"
+msgstr "Ошибка античита"
+
+# Clan / group
+msgid "Clan"
+msgstr "Клан"
+
+msgid "Create Clan"
+msgstr "Создать клан"
+
+msgid "Clan Tag"
+msgstr "Тег клана"
+
+msgid "Members"
+msgstr "Участники"
+
+msgid "Promote"
+msgstr "Повысить"
+
+msgid "Demote"
+msgstr "Понизить"
+
+# Controller hints
+msgid "Press {Button} to ping"
+msgstr "Нажмите {Button}, чтобы поставить метку"
+
+msgid "Press {Button} to melee"
+msgstr "Нажмите {Button}, чтобы ударить"
+
+# Map voting
+msgid "Vote"
+msgstr "Голосовать"
+
+msgid "Map Vote"
+msgstr "Голосование за карту"
+
+msgid "Next Map"
+msgstr "Следующая карта"
+
+msgid "Random"
+msgstr "Случайно"
+
+# Misc small labels
+msgid "Owned"
+msgstr "Приобретено"
+
+msgid "Purchase"
+msgstr "Купить"
+
+msgid "Preview"
+msgstr "Предпросмотр"
+
+msgid "Rotate"
+msgstr "Повернуть"
+
+msgid "Zoom"
+msgstr "Приблизить"
+
+msgid "Apply Skin"
+msgstr "Применить скин"
+
+# Safety – content
+msgid "Hide mature content"
+msgstr "Скрыть контент для взрослых"
+
+msgid "Enable profanity filter"
+msgstr "Включить фильтр нецензурной лексики"
+
+
+# ===== Batch 8 =====
+# Weapons – sample names
+msgid "AK"
+msgstr "АК"
+
+msgid "AK Assault Rifle"
+msgstr "АК штурмовая винтовка"
+
+msgid "Pump Shotgun"
+msgstr "Помповый дробовик"
+
+msgid "Modern Pistol"
+msgstr "Современный пистолет"
+
+msgid "Bayonet Knife"
+msgstr "Штык-нож"
+
+# Weapons – fire/control
+msgid "Single"
+msgstr "Одиночный"
+
+msgid "Burst"
+msgstr "Очередь"
+
+msgid "Automatic"
+msgstr "Автоматический"
+
+msgid "Semi-Auto"
+msgstr "Полуавтоматический"
+
+msgid "Safety"
+msgstr "Предохранитель"
+
+# UI – confirmations and labels
+msgid "Apply Changes"
+msgstr "Применить изменения"
+
+msgid "Discard"
+msgstr "Отменить"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Disable"
+msgstr "Отключить"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+# Settings – advanced video
+msgid "Ambient Occlusion"
+msgstr "Окклюзия окружающей среды"
+
+msgid "Contact Shadows"
+msgstr "Контактные тени"
+
+msgid "Volumetrics"
+msgstr "Объёмные эффекты"
+
+msgid "Reflections"
+msgstr "Отражения"
+
+msgid "Nanite"
+msgstr "Nanite"
+
+msgid "Lumen"
+msgstr "Lumen"
+
+msgid "Temporal AA"
+msgstr "Временное сглаживание"
+
+msgid "Sharpening"
+msgstr "Повышение резкости"
+
+# Settings – network
+msgid "Server Region"
+msgstr "Регион сервера"
+
+msgid "Max Ping"
+msgstr "Макс. пинг"
+
+msgid "Packet Loss"
+msgstr "Потеря пакетов"
+
+# Notifications – combat
+msgid "Hit"
+msgstr "Попадание"
+
+msgid "Critical Hit"
+msgstr "Критическое попадание"
+
+msgid "Armor Broken"
+msgstr "Броня сломана"
+
+msgid "Downed"
+msgstr "Убит наповал"
+
+msgid "Revived"
+msgstr "Оживлён"
+
+# Killfeed templates
+msgid "{Killer} eliminated {Victim}"
+msgstr "{Killer} ликвидировал {Victim}"
+
+msgid "{Killer} headshot {Victim}"
+msgstr "{Killer} выстрелом в голову убил {Victim}"
+
+msgid "{Victim} fell to their death"
+msgstr "{Victim} разбился насмерть"
+
+# Objectives – CTB/SD
+msgid "Bomb planted"
+msgstr "Бомба установлена"
+
+msgid "Bomb defused"
+msgstr "Бомба обезврежена"
+
+msgid "Bomb dropped"
+msgstr "Бомба утеряна"
+
+msgid "Bomb picked up"
+msgstr "Бомба поднята"
+
+# UI – store/currency
+msgid "Store"
+msgstr "Магазин"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Balance"
+msgstr "Баланс"
+
+msgid "Insufficient funds"
+msgstr "Недостаточно средств"
+
+msgid "Purchase failed"
+msgstr "Покупка не удалась"
+
+msgid "Purchase successful"
+msgstr "Покупка выполнена"
+
+# UI – friends/party
+msgid "Invite sent"
+msgstr "Приглашение отправлено"
+
+msgid "Invite received"
+msgstr "Получено приглашение"
+
+msgid "Friend request sent"
+msgstr "Заявка в друзья отправлена"
+
+msgid "Friend request received"
+msgstr "Получена заявка в друзья"
+
+msgid "Blocked"
+msgstr "Заблокирован"
+
+# Misc – placeholders
+msgid "{X} remaining"
+msgstr "Осталось: {X}"
+
+msgid "{X} players"
+msgstr "Игроков: {X}"
+
+msgid "{X} rounds"
+msgstr "Раундов: {X}"
+
+# News/marketing – keep tags
+msgid "<D>·</> <B>Field Upgrades (e.g., an ammo box or a medkit)</>"
+msgstr "<D>·</> <B>Полевые улучшения (например, ящик с патронами или аптечка)</>"
+
+msgid "<D>·</> <B>New Rifle weapon added.</> Fully animated in first-person and third-person."
+msgstr "<D>·</> <B>Добавлено новое оружие: винтовка.</> Полная анимация от 1-го и 3-го лица."
+
+msgid "<D>·</> <B>New Inspect weapon animations.</>"
+msgstr "<D>·</> <B>Новые анимации осмотра оружия.</>"
+
+
+# ===== Batch 9 =====
+# Attachments – detailed
+msgid "Compensator"
+msgstr "Компенсатор"
+
+msgid "Muzzle Brake"
+msgstr "Дульный тормоз"
+
+msgid "Suppressor"
+msgstr "Глушитель"
+
+msgid "Choke"
+msgstr "Чок"
+
+msgid "Extended Barrel"
+msgstr "Удлинённый ствол"
+
+msgid "Short Barrel"
+msgstr "Короткий ствол"
+
+msgid "Red Dot"
+msgstr "Коллиматор"
+
+msgid "Holographic"
+msgstr "Голографический"
+
+msgid "2x Scope"
+msgstr "Прицел 2x"
+
+msgid "4x Scope"
+msgstr "Прицел 4x"
+
+msgid "Thermal"
+msgstr "Тепловизор"
+
+msgid "Hybrid"
+msgstr "Гибридный"
+
+msgid "Light Stock"
+msgstr "Лёгкий приклад"
+
+msgid "Heavy Stock"
+msgstr "Тяжёлый приклад"
+
+msgid "Angled Grip"
+msgstr "Угловая рукоять"
+
+msgid "Vertical Grip"
+msgstr "Вертикальная рукоять"
+
+msgid "Drum Magazine"
+msgstr "Барабанный магазин"
+
+msgid "Fast Mag"
+msgstr "Быстрый магазин"
+
+msgid "Hollow Point"
+msgstr "Пули экспансивные"
+
+msgid "Armor Piercing"
+msgstr "Бронебойные"
+
+msgid "FMJ"
+msgstr "FMJ"
+
+# Maps / rotation
+msgid "Map"
+msgstr "Карта"
+
+msgid "Rotation"
+msgstr "Ротация"
+
+msgid "Vote passed"
+msgstr "Голосование принято"
+
+msgid "Vote failed"
+msgstr "Голосование отклонено"
+
+# UI – pagination / lists
+msgid "Page"
+msgstr "Страница"
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "Previous"
+msgstr "Назад"
+
+msgid "Show More"
+msgstr "Показать ещё"
+
+msgid "Show Less"
+msgstr "Показать меньше"
+
+msgid "Sort"
+msgstr "Сортировка"
+
+msgid "Sort By"
+msgstr "Сортировать по"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Rarity"
+msgstr "Редкость"
+
+# Errors – storage/settings
+msgid "Failed to save settings"
+msgstr "Не удалось сохранить настройки"
+
+msgid "Failed to load settings"
+msgstr "Не удалось загрузить настройки"
+
+msgid "Not enough disk space"
+msgstr "Недостаточно места на диске"
+
+msgid "Write permission denied"
+msgstr "Нет прав на запись"
+
+# Gameplay – feedback
+msgid "Recoil increased"
+msgstr "Отдача увеличена"
+
+msgid "Recoil reduced"
+msgstr "Отдача снижена"
+
+msgid "Accuracy increased"
+msgstr "Точность повышена"
+
+msgid "Accuracy reduced"
+msgstr "Точность снижена"
+
+msgid "Movement speed increased"
+msgstr "Скорость движения повышена"
+
+msgid "Movement speed reduced"
+msgstr "Скорость движения снижена"
+
+# Warmup / spawn
+msgid "Choose Spawn"
+msgstr "Выберите место появления"
+
+msgid "Auto Spawn"
+msgstr "Автопоявление"
+
+msgid "Random Spawn"
+msgstr "Случайное появление"
+
+msgid "Spawn blocked"
+msgstr "Появление заблокировано"
+
+# Chat moderation
+msgid "Profanity filtered"
+msgstr "Нецензурная лексика отфильтрована"
+
+msgid "Message deleted"
+msgstr "Сообщение удалено"
+
+msgid "You are sending messages too fast"
+msgstr "Вы отправляете сообщения слишком быстро"
+
+
+# ===== Batch 10 =====
+# Challenges / missions
+msgid "Daily Challenges"
+msgstr "Ежедневные испытания"
+
+msgid "Weekly Challenges"
+msgstr "Еженедельные испытания"
+
+msgid "Challenge Progress"
+msgstr "Прогресс испытаний"
+
+msgid "Mission Objectives"
+msgstr "Цели миссии"
+
+msgid "Collect {X} items"
+msgstr "Соберите {X} предметов"
+
+msgid "Win {X} matches"
+msgstr "Выиграйте {X} матчей"
+
+msgid "Get {X} headshots"
+msgstr "Сделайте {X} выстрелов в голову"
+
+msgid "Deal {X} damage"
+msgstr "Нанесите {X} урона"
+
+msgid "Travel {X} m"
+msgstr "Пройдите {X} м"
+
+# Career / stats
+msgid "Lifetime"
+msgstr "За всё время"
+
+msgid "Matches Played"
+msgstr "Сыграно матчей"
+
+msgid "Wins"
+msgstr "Победы"
+
+msgid "Losses"
+msgstr "Поражения"
+
+msgid "Win Rate"
+msgstr "Процент побед"
+
+msgid "Accuracy %"
+msgstr "Точность %"
+
+msgid "Headshot %"
+msgstr "Выстрелы в голову %"
+
+# Input – extra
+msgid "Hold"
+msgstr "Удерживать"
+
+msgid "Toggle"
+msgstr "Переключать"
+
+msgid "Sprint Cancel Reload"
+msgstr "Бег отменяет перезарядку"
+
+msgid "Auto Reload"
+msgstr "Автоперезарядка"
+
+# UI – notifications
+msgid "New item unlocked"
+msgstr "Новый предмет разблокирован"
+
+msgid "Skin applied"
+msgstr "Скин применён"
+
+msgid "Loadout saved"
+msgstr "Снаряжение сохранено"
+
+msgid "Loadout reset"
+msgstr "Снаряжение сброшено"
+
+# Store – confirmations
+msgid "Confirm purchase?"
+msgstr "Подтвердить покупку?"
+
+msgid "Purchase confirmed"
+msgstr "Покупка подтверждена"
+
+msgid "Refund issued"
+msgstr "Возврат оформлен"
+
+# Social – presence
+msgid "Online"
+msgstr "Онлайн"
+
+msgid "Offline"
+msgstr "Оффлайн"
+
+msgid "In Match"
+msgstr "В матче"
+
+msgid "In Menu"
+msgstr "В меню"
+
+msgid "Do Not Disturb"
+msgstr "Не беспокоить"
+
+# Server browser – columns
+msgid "Players"
+msgstr "Игроки"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Map Name"
+msgstr "Название карты"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+# Anticheat – notices
+msgid "Cheat detected"
+msgstr "Обнаружено читерство"
+
+msgid "You have been removed by anticheat"
+msgstr "Вы удалены античитом"
+
+# Misc – placeholders
+msgid "{X} minutes"
+msgstr "{X} минут"
+
+msgid "{X} seconds"
+msgstr "{X} секунд"
+
+msgid "{X} matches"
+msgstr "{X} матчей"

@@ -18,7 +18,7 @@
 
 # Fortran module files
 *.mod
-
+*.pbd
 # Compiled Static libraries
 *.lai
 *.la
@@ -74,3 +74,21 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Binary files
+**/Binaries/
+**/Intermediate/
+**/Saved/
+
+# Build results
+*.pdb
+*.obj
+*.exe
+*.dll
+
+# Unreal Engine specific
+**.bin
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/

@@ -1,0 +1,9 @@
+ - [B8F8A3064549F29EB4008E8A1ADFD090] 
+	/Game/FPS/UI/Menus/WB_SettingsMenu.WB_SettingsMenu:GetSettingLevelText.K2Node_FunctionResult_2.SettingLevelText - "Medium" 
+	/Game/FPS/UI/Menus/WB_SettingsMenu.WB_SettingsMenu:GetSettingLevelText.K2Node_FunctionResult_1.SettingLevelText - "Low" 
+	/Game/FPS/UI/Menus/WB_SettingsMenu.WB_SettingsMenu_C:GetSettingLevelText [Script Bytecode] - "Medium" 
+	/Game/FPS/UI/Menus/WB_SettingsMenu.WB_SettingsMenu:GetSettingLevelText.K2Node_FunctionResult_3.SettingLevelText - "High" 
+	/Game/FPS/UI/Menus/WB_SettingsMenu.WB_SettingsMenu_C:GetSettingLevelText [Script Bytecode] - "High" 
+	/Game/FPS/UI/Menus/WB_SettingsMenu.WB_SettingsMenu:GetSettingLevelText.K2Node_FunctionResult_0.SettingLevelText - "Ultra" 
+	/Game/FPS/UI/Menus/WB_SettingsMenu.WB_SettingsMenu_C:GetSettingLevelText [Script Bytecode] - "Ultra" 
+
